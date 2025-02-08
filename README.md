@@ -16,13 +16,13 @@
 - 14:00 Math1162
 - 18:00 comp1234
 
-  ### Wednesday
-  10:00 comp1234
+-### Wednesday
+-10:00 comp1234
 
-  ### Thursday
-  8:00 comp1236
-  10:00 Math1162
-  13:00 comp1238
+-### Thursday
+-8:00 comp1236
+-10:00 Math1162
+-13:00 comp1238
 
-  ### Friday
-  12:00 comp1151
+-### Friday
+-12:00 comp1151
